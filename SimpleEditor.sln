@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleEditor", "SimpleEditor", "{8C0A8BE6-C5AE-4739-A074-95F468796515}"
 	ProjectSection(SolutionItems) = preProject
-		Index.html = Index.html
+		index.html = index.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D3D613F0-2FDE-48B6-9906-148264987743}"
